@@ -4,8 +4,9 @@
 
 ## Установка:
 1. Убедитесь, что у вас установлен [Python 3.10+](https://www.python.org/downloads/)
-2. Клонируйте репозиторий:
+2. Клонируйте репозиторий в удобное вам место:
 ```bash
+cd PATH
 git clone https://github.com/skrat1k/CCTas1
 ```
 
